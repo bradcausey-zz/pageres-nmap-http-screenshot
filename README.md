@@ -9,7 +9,7 @@ Installation
 
 First you need to install node.js 
 
-	[here](https://nodejs.org/en/download/package-manager/#windows)
+	https://nodejs.org/en/download/package-manager/#windows
 
 Next, run the installation for pageres-cli: 
 
